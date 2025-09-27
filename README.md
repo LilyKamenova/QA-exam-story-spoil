@@ -34,7 +34,7 @@ This project demonstrates my ability to:
 ## Screenshots
 
 ### Test Cases Overview
-![Test Cases Overview](https://raw.githubusercontent.com/LilyKamenova/QA-exam-story-spoil/main/screenshots/test-cases-overview.png)
+![Test Cases Overview](https://github.com/LilyKamenova/QA-exam-story-spoil/blob/1b079943c00dfb8c63249b7c036436802d70fb2f/screenshots/test-cases-overview.png)
 
 ### Example Bug Report
 ![Bug Report Example](https://raw.githubusercontent.com/LilyKamenova/QA-exam-story-spoil/main/screenshots/bug-report-example.png)
