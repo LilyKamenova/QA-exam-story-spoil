@@ -31,11 +31,12 @@ This project demonstrates my ability to:
 - Create and execute manual test cases
 - Document defects in a structured way
 
-# Screenshots
+## Screenshots
 
 ### Test Cases Overview
 ![Test Cases Overview](https://raw.githubusercontent.com/LilyKamenova/QA-exam-story-spoil/main/screenshots/test-cases-overview.png)
 
 ### Example Bug Report
 ![Bug Report Example](https://raw.githubusercontent.com/LilyKamenova/QA-exam-story-spoil/main/screenshots/bug-report-example.png)
+
 
