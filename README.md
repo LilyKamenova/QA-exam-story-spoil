@@ -34,7 +34,7 @@ This project demonstrates my ability to:
 # Screenshots
 
 ### Test Cases Overview
-![Test Cases Overview](./screenshots/test-cases-overview.png)
+![Test Cases Overview](https://github.com/LilyKamenova/QA-exam-story-spoil/blob/main/screenshots/test-cases-overview.png)
 
 ### Example Bug Report
 ![Bug Report Example](./screenshots/bug-report-example.png)
