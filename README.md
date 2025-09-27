@@ -37,4 +37,4 @@ This project demonstrates my ability to:
 ![Test Cases Overview](https://github.com/LilyKamenova/QA-exam-story-spoil/blob/1b079943c00dfb8c63249b7c036436802d70fb2f/screenshots/test-cases-overview.png)
 
 ### Example Bug Report
-![Example Bug Report]()
+![Example Bug Report](https://github.com/LilyKamenova/QA-exam-story-spoil/blob/1a1bddc4a29c68960b518cf0a1c41007e11c11d7/screenshots/bug-report-example.png)
